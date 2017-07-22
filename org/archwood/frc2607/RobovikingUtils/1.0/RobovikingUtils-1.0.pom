@@ -5,5 +5,30 @@
   <groupId>org.archwood.frc2607</groupId>
   <artifactId>RobovikingUtils</artifactId>
   <version>1.0</version>
-  <description>POM was created from install:install-file</description>
+  <dependencies>
+    <dependency>
+      <groupId>edu.wpi.first.wpilibj</groupId>
+      <artifactId>athena-jni</artifactId>
+      <version>2017.3.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>edu.wpi.first.wpilibj</groupId>
+      <artifactId>athena</artifactId>
+      <version>2017.3.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>edu.wpi.first.wpilib</groupId>
+      <artifactId>athena-runtime</artifactId>
+      <version>2017.3.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>edu.wpi.first.wpilib</groupId>
+      <artifactId>hal</artifactId>
+      <version>2017.3.1</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
