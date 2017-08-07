@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ctre</groupId>
+  <artifactId>CTRLib</artifactId>
+  <versioning>
+    <release>4.4.1.14</release>
+    <versions>
+      <version>4.4.1.14</version>
+    </versions>
+    <lastUpdated>20170807120752</lastUpdated>
+  </versioning>
+</metadata>
